@@ -62,6 +62,15 @@ Strange antivirus tools from `mal_domains.csv`:
 "VIPRE": 5
 ```
 
+Besides, there are four large clusters:
+1) Avast5 or NOD32
+2) MicroWorld-eScan
+3) K7AntiVirus
+4) MacAfee or Kaspersky
+
+Probably we can use several (two for example) antivirus from a single cluster and got predictions with
+same accuracy as with using all antivirus.
+
 
 
 
